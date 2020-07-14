@@ -6,7 +6,7 @@ from products
 where substring(productCode,1,4)='S700' 
       and (cast(substring(productCode,6,4) as UNSIGNED) between 1000 and 1499);
 
-# 4. Which customers have a digit in their name?
+# 5. Which customers have a digit in their name?
 select *
 from customers
 where customerName rlike '[0-9]';
