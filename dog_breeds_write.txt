@@ -1,0 +1,10 @@
+Border Terrier,14
+Boxer,6
+West Highland White Terrier,28
+Golden Retriever,17
+Cavalier King Charles Spaniel,30
+Staffordshire Bull Terrier,27
+German Shepherd,16
+English Springer Spaniel,25
+Jack Russell Terrier,21
+Pug,4
