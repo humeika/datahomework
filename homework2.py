@@ -49,7 +49,7 @@ import pandas as pd
 # In[11]:
 
 
-mypassword = 'Plew7711488cxz'
+mypassword = 'xxxxxxx'
 
 
 # In[12]:
